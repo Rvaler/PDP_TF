@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace PDP
 {
-    public class Program
+    public class MVPProducMain
     {
         static void Main(string[] args)
         {

@@ -1,3 +1,4 @@
+package mvproduct;
 
 public class MVProduct extends Thread {
 
