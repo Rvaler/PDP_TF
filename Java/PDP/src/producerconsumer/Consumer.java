@@ -20,14 +20,14 @@ public class Consumer extends Thread {
 		int count = 0;
 		Random r = new Random();
 		while(!stop) {
+			try {
+				Thread.sleep( r.nextInt(1000) );
+			} catch (Exception e) {				
+			}
+			
 			item = buffer.getElement(this.getName());
 			if(item != null) {
 				count++;
-			}
-			try {
-				Thread.sleep( r.nextInt(1000) );
-			} catch (Exception e) {
-				
 			}
 		}
 		System.out.println(this.getName() + " finished!");
