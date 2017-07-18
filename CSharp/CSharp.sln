@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVProduct", "PDP\MVProduct.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerConsumer", "Monitor\ProducerConsumer.csproj", "{E0B2E02B-A60C-40C7-B209-C69767ADD6B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoteCounter", "VoteCounter\VoteCounter.csproj", "{D5621FF0-3DCC-403A-A981-F6F617B1C3D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,16 @@ Global
 		{E0B2E02B-A60C-40C7-B209-C69767ADD6B6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{E0B2E02B-A60C-40C7-B209-C69767ADD6B6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{E0B2E02B-A60C-40C7-B209-C69767ADD6B6}.Release|x64.ActiveCfg = Release|Any CPU
+		{D5621FF0-3DCC-403A-A981-F6F617B1C3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5621FF0-3DCC-403A-A981-F6F617B1C3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5621FF0-3DCC-403A-A981-F6F617B1C3D3}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D5621FF0-3DCC-403A-A981-F6F617B1C3D3}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D5621FF0-3DCC-403A-A981-F6F617B1C3D3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D5621FF0-3DCC-403A-A981-F6F617B1C3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5621FF0-3DCC-403A-A981-F6F617B1C3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5621FF0-3DCC-403A-A981-F6F617B1C3D3}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D5621FF0-3DCC-403A-A981-F6F617B1C3D3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D5621FF0-3DCC-403A-A981-F6F617B1C3D3}.Release|x64.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
