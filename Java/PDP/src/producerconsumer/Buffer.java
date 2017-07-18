@@ -1,4 +1,4 @@
-package monitor;
+package producerconsumer;
 
 import java.util.LinkedList;
 import java.util.Queue;

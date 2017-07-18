@@ -1,4 +1,4 @@
-package monitor;
+package producerconsumer;
 
 import java.util.ArrayList;
 import java.util.List;
