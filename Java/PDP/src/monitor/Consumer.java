@@ -20,7 +20,7 @@ public class Consumer extends Thread {
 		int count = 0;
 		Random r = new Random();
 		while(!stop) {
-			item = buffer.getNextElement(this.getName());
+			item = buffer.getElement(this.getName());
 			if(item != null) {
 				count++;
 			}
