@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducerConsumer", "Monitor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoteCounter", "VoteCounter\VoteCounter.csproj", "{D5621FF0-3DCC-403A-A981-F6F617B1C3D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printer", "Printer\Printer.csproj", "{52263483-82C7-453A-8594-E0F2AA12F654}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,16 @@ Global
 		{D5621FF0-3DCC-403A-A981-F6F617B1C3D3}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{D5621FF0-3DCC-403A-A981-F6F617B1C3D3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{D5621FF0-3DCC-403A-A981-F6F617B1C3D3}.Release|x64.ActiveCfg = Release|Any CPU
+		{52263483-82C7-453A-8594-E0F2AA12F654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52263483-82C7-453A-8594-E0F2AA12F654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52263483-82C7-453A-8594-E0F2AA12F654}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{52263483-82C7-453A-8594-E0F2AA12F654}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{52263483-82C7-453A-8594-E0F2AA12F654}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{52263483-82C7-453A-8594-E0F2AA12F654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52263483-82C7-453A-8594-E0F2AA12F654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52263483-82C7-453A-8594-E0F2AA12F654}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{52263483-82C7-453A-8594-E0F2AA12F654}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{52263483-82C7-453A-8594-E0F2AA12F654}.Release|x64.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

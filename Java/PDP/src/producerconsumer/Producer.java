@@ -30,7 +30,7 @@ public class Producer extends Thread{
 	}
 	
 	/**
-	 * Overrid do método run da classe Thread.
+	 * Override do método run da classe Thread.
 	 * Método responsável por produzir e colocar novos itens no buffer.
 	 */
 	@Override
